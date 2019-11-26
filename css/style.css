@@ -321,15 +321,15 @@
                 text-transform: uppercase;
                 background: #6B8E23;
                 padding: 20px;
-                border: 4px solid #6B8E23 !important;
-                border-radius: 6px;
+                border: 4px solid #6B8E23!important;
+                border-radius: 20px;
                 display: inline-block;
                 transition: all 0.3s ease 0s;
         }
         .butt_d1:hover {
                 color: #ffffff !important;
-                border-radius: 50px;
-                border-color: #494949 !important;
+                border-radius: 70px;
+                border-color: #6B8E23 !important;
                 transition: all 0.3s ease 0s;
         }
 		
@@ -845,8 +845,8 @@
 			position: absolute;
 			left: 0;
 			top: 0;
-			width: 80%;
-			height: 80%;
+			width: 100%;
+			height: 100%;
 			background: rgba(64,64,64,0.125);
 		}
 
