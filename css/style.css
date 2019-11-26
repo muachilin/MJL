@@ -170,7 +170,14 @@
 				display: block;
 				width: 100%;
 			}
-
+				img.stretched {
+					max-height:250px;
+					width:auto;
+				}
+				img.stretched_2 {
+					max-height:350px;
+					width:auto;
+				}
 			.image.featured
 			{
 				display: block;
