@@ -155,7 +155,7 @@
 		.row > section,
 		.row > article
 		{
-			margin-bottom: 0;
+			margin-bottom: 0.3em;
 		}
 
 	/* Images */
