@@ -310,9 +310,10 @@
 		transition: all 0.3s ease 0s;
 	}
 	.butt_d:hover {
-		color: #494949 !important;
+		color: #ffffff !important;
 		border-radius: 50px;
-		border-color: #494949 !important;
+		border-color: #6B8E23 !important;
+		background: #6B8E23
 		transition: all 0.3s ease 0s;
 	}
 
