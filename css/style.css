@@ -926,7 +926,7 @@
 		#nav > ul > li
 		{
 			display: inline-block;
-			border-right: 3px solid;
+			border-right: 4px solid;
 			border-color: #ffffff;
 		}
 		
@@ -940,7 +940,7 @@
 			#nav > ul > li > span
 			{
 				display: inline-block;
-				padding: 1.5em 1.5em;
+				padding: 1em 1em;
 				letter-spacing: 0.06em;
 				text-decoration: none;
 				text-transform: uppercase;
