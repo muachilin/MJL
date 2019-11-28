@@ -909,8 +909,8 @@
 
 		#nav-wrapper
 		{
-			background: rgba(0,0,0,.1);
-			position: absolute;
+			background: #6B8E23;
+			position: fixed;
 			top: 0;
 			left: 0;
 			width: 100%;
@@ -926,8 +926,8 @@
 		#nav > ul > li
 		{
 			display: inline-block;
-			border-right: 1px solid;
-			border-color: rgba(255,255,255,.1);
+			border-right: 3px solid;
+			border-color: #ffffff;
 		}
 		
 			#nav > ul > li:last-child
@@ -944,15 +944,11 @@
 				letter-spacing: 0.06em;
 				text-decoration: none;
 				text-transform: uppercase;
-				font-size: 1.1em;
+				font-size: 0.8em;
 				outline: 0;
 				color: #FFF;
 			}
 
-			#nav li.active a
-			{
-				color: #FFF;
-			}
 
 			#nav > ul > li > ul
 			{
