@@ -344,8 +344,9 @@
                 transition: all 0.3s ease 0s;
         }
         .butt_d1:hover {
-		background: #d4af37;
-                color: #ffffff !important;
+		background: url(../images/dims.png) no-repeat;
+		color: #ffffff !important;
+		font-weight: 700;
                 border-radius: 70px;
                 border-color: #d4af37 !important;
                 transition: all 0.3s ease 0s;
