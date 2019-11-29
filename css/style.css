@@ -11,7 +11,8 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
-
+	
+	
 	body
 	{
 		margin: 0;
@@ -343,9 +344,10 @@
                 transition: all 0.3s ease 0s;
         }
         .butt_d1:hover {
+		background: #d4af37;
                 color: #ffffff !important;
                 border-radius: 70px;
-                border-color: #6B8E23 !important;
+                border-color: #d4af37 !important;
                 transition: all 0.3s ease 0s;
         }
 		
