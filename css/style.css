@@ -271,7 +271,21 @@
 			padding-top: 0px;
 			border-top: none;
 		}
-							
+	
+	.rolling_ball
+{
+  position: absolute;
+  left: 0 px;
+  bottom: 0;
+  /*vertical-align: bottom;*/
+  width: 90px;
+  height: 100px;
+  /*margin: 10px;*/
+  border-radius: 60px / 50px;
+  color: #ffffff;
+  background: #cc0000;
+  /*transform-style: preserve-3d;*/
+}						
 
 	/* Buttons */
 		
